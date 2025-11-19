@@ -2,6 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-Data%20Processing-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C8CBF?logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
